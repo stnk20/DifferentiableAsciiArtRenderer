@@ -1,0 +1,1 @@
+Images int this directory are generated from [sample images of DeepAA](https://github.com/OsciiArt/DeepAA/tree/master/sample%20images/original%20images).
