@@ -1,0 +1,3 @@
+[submodule "DeepAA"]
+	path = DeepAA
+	url = https://github.com/OsciiArt/DeepAA.git
