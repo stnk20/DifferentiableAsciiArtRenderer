@@ -25,10 +25,16 @@ python3 predict.py weights.h5 line_drawing_dir/*.png
 
 # Requirements
 
+predict:
+
 * tensorflow>=2.2.0
-* opencv-contrib-python>=4.2.0
-* tqdm
+* opencv-python>=4.0.0
 * numpy
-* scikit-image
+
+train/experiment:
+
+* tqdm
+* opencv-contrib-python>=4.0.0
 * pandas
+* scikit-image
 * fusewarp(https://github.com/stnk20/fusewarp)
